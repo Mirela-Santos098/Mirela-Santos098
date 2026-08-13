@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Mirela Santos Martins
 
-<!--
-**Mirela-Santos098/Mirela-Santos098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de tecnologia, atualmente desenvolvendo meus conhecimentos em programação e banco de dados. Tenho interesse em construir minha carreira na área de Dados e estou sempre buscando aprender e colocar meus conhecimentos em prática.
 
-Here are some ideas to get you started:
+## 🛠️Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linguagens de Programação:
+
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+* Banco de Dados:
+  
+  ##
+ 
